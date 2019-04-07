@@ -1,0 +1,3 @@
+Hi.. Welcome to git repository.
+Thi is the first git file!!
+
